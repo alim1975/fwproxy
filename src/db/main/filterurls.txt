@@ -1,0 +1,8 @@
+www.prothom-alo.com	SAFE
+www.amadershomoy.com    UNSAFE
+www.xxx.com		UNSAFE
+www.google.com		SAFE
+www.cisco.com		SAFE
+www.microsoft.com	SAFE
+www.amazon.com		SAFE
+www.pornhub.com		UNSAFE

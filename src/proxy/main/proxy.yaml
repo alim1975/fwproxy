@@ -1,0 +1,4 @@
+listener: 127.0.0.1:8080
+urldb:
+  - endpoint: 127.0.0.1:8888
+    prefix: /urlinfo/1/
